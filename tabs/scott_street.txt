@@ -1,0 +1,26 @@
+Scott Street
+Phoebe Bridgers
+
+Link to strumming: https://youtu.be/rY-McpLX0UA?t=198
+
+    G   Dsus4 A7sus4 G/A G/B Csus2 Cadd9 G5 G5/F# B5/C C5
+E|--3---3------3------3---3---3-----3---------------------|
+B|--3---3------3------3---3---3-----3---------------------|
+G|--0---2------0------0---0---0-----0---------------------|
+D|--0---0------2------0---0---0-----2--------------4---5--|
+A|--x----------0------0---2---3-----3-----5---5----3---3--|
+E|--3-------------------------------------3---2-----------|
+    G   D      A      O   B   C     9
+Shorthand for chords used in strum notes are on the line above
+
+D = down strum
+U = up strum
+H = hammer on
+
+G        D     O
+1 + 2 + 3 + 4 + 
+D   D DUDUD D DU
+
+OA  OB  OC   9
+1 + 2 + 3 + 4 + 
+DH  DU  DH UDUD
