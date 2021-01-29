@@ -1,5 +1,12 @@
 Scott Street
 Phoebe Bridgers
+Capo 3
+
+D = down strum
+U = up strum
+H = hammer on
+
+VERSE
 
 Link to strumming: https://youtu.be/rY-McpLX0UA?t=198
 
@@ -13,10 +20,6 @@ E|--3-------------------------------------3---2-----------|
     G   D      A      O   B   C     9
 Shorthand for chords used in strum notes are on the line above
 
-D = down strum
-U = up strum
-H = hammer on
-
 G        D     O
 1 + 2 + 3 + 4 + 
 D   D DUDUD D DU
@@ -24,3 +27,33 @@ D   D DUDUD D DU
 OA  OB  OC   9
 1 + 2 + 3 + 4 + 
 DH  DU  DH UDUD
+
+x12ish
+
+CHORUS
+
+Link to strumming: https://youtu.be/rY-McpLX0UA?t=327
+
+   A7sus4  Cadd9   G Dsus4  Csus2
+E|----3------3-----3---3-----3-----|
+B|----3------3-----3---3-----3-----|
+G|----0------0-----0---2-----0-----|
+D|----2------2-----0---0-----0-----|
+A|----0------3-----x---------3-----|
+E|-----------------3---------------|
+      A      9     G   D     C
+Shorthand for chords used in strum notes are on the line above
+
+A       9     
+1 + 2 + 3 + 4 + 
+D   D  UD   D  U
+
+G       D     
+1 + 2 + 3 + 4 + 
+D   D  UD   D  U
+
+C   
+1 + 2 + 3 + 4 + 
+D   D  UD  UDUDU
+
+x2
